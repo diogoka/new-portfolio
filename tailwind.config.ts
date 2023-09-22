@@ -15,6 +15,6 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  lugins: [require("daisyui")],
 }
 export default config

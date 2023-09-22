@@ -1,7 +1,15 @@
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import Title from "./components/Title";
+
 export default function Home() {
   return (
+    
     <main>
-      <h1>_index</h1>
+      <Header />
+      <Title />
+      <Footer />
     </main>
-  )
+    
+  );
 }
