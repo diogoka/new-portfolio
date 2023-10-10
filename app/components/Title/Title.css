@@ -1,0 +1,16 @@
+/* @font-face {
+  font-family: "Aestetic-Italic";
+  src: url("../../public/fonts/Fontspring-DEMO-aesteticoformal-extralightit.otf")
+    format("opentype");
+} */
+
+.name {
+  font-family: "Aestetic-Italic", sans-serif;
+  font-size: 7rem;
+  color: #ffffff;
+  padding-left: 1.65rem;
+}
+
+.title-container {
+  width: 100vw;
+}

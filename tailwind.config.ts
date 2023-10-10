@@ -15,6 +15,9 @@ const config: Config = {
       },
     },
   },
-  lugins: [require("daisyui")],
+  plugins: [require("daisyui")],
+  daisyui:{
+    themes: ["emerald", "dark", "light"]
+  }
 }
 export default config

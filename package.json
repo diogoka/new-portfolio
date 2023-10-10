@@ -23,6 +23,6 @@
     "typescript": "5.2.2"
   },
   "devDependencies": {
-    "daisyui": "^3.7.7"
+    "daisyui": "^3.9.2"
   }
 }

@@ -2,7 +2,6 @@
   font-family: "Aestetic";
   src: url("../../public/fonts/Fontspring-DEMO-aestetico-bold.otf")
     format("opentype");
-  /* You can specify other font properties like font-weight and font-style here */
 }
 
 body {

@@ -5,8 +5,16 @@
     format("opentype");
 }
 
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
 body {
-  background-color: #272343;
+  /* background-color: #0c2233; */
   margin: 0;
   padding: 0;
+}
+
+.title-container {
+  display: flex;
 }

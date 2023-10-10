@@ -1,5 +1,5 @@
 import './globals.css'
-import './components/style.css'
+// import './components/style.css'
 
 export default function RootLayout({
   children,
@@ -7,7 +7,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="dark">
       <body>{children}</body>
     </html>
   )
